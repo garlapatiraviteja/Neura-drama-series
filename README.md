@@ -1,6 +1,6 @@
 # NEURA: The Drama Series 🧠✨
 
-Welcome to the **Neura Universe**, a sci-fi drama series written by [Raviteja Garlapati](https://linkedin.com/in/yourprofile) — where **machine learning meets mythology**, and **neurons wage war in digital and quantum realms**.
+Welcome to the **Neura Universe**, a sci-fi drama series written by [Raviteja Garlapati](https://www.linkedin.com/in/raviteja-garlapati-147a71172/) — where **machine learning meets mythology**, and **neurons wage war in digital and quantum realms**.
 
 ## 📖 Episodes
 
