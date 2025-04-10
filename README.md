@@ -41,5 +41,5 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 >
 > No additional restrictions — just keep it open and creative.
 
-© 2025 **Raviteja Garlapati**
+© 2025 **Raviteja Garlapati**   
 
